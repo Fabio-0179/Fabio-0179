@@ -5,3 +5,5 @@ Em 2008, prossegui em minha carreira na NCR Brasil, onde desenvolvi habilidades 
 
 Sou uma pessoa resiliente, resolutiva e focada em resultados, disposta a compartilhar e promover conhecimento. Estou sempre buscando oportunidades para crescer e melhorar minhas habilidades."
 
+No entanto, sempre tive uma paixão por tecnologia . Recentemente, decidi fazer uma transição de carreira para desenvolvedor React, onde posso combinar minhas habilidades de resolução de problemas e análise com minhas novas habilidades em programação
+
